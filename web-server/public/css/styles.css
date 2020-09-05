@@ -1,0 +1,34 @@
+body {
+	color: black;
+	font-family: aerial;
+	max-width: 654px;
+	margin: 0 auto;
+	padding: 0 16px;
+}
+
+footer {
+	color:  black;
+	border-top: 1px dotted black;
+	margin-top: 16px;
+	padding: 16px;
+}
+
+header {
+	margin-top: 16px;
+	margin-bottom: 48px;
+}
+
+h1 {
+	font-size: 64px;
+	margin-bottom: 16px;
+}
+
+header a {
+	text-decoration: none;
+	margin-right: 16px;
+	color: grey;
+}
+
+img {
+	width: 250px;
+}
